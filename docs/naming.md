@@ -9,7 +9,7 @@ If the objective is truly clarity and "helping me with visibility" changing the 
 
 So instead I have the option to use a namespace and bury it's visibility, or hit a thesaurus and use incorrect, not-quite-right words to further make words meaningless. So a thesaurus it is... but then you find all the words that anyone is familiar with are long taken for projects that have nothing at all to do with the word in question other than as some kind of inspirational symbol.
 
-So after writing this module as `story-teller`, which is wide open... I go to publish and get an error because there is a module I was unaware of, `story-teller`.
+So after writing this module as `story-teller`, which is wide open... I go to publish and get an error because there is a module I was unaware of, `storyteller`.
 
 So given that I have (rather annoyingly) been asked to give up some module names in the past, I figured asking them to enable that wouldn't be a big issue, given that I'm a new module and the other module has been inactive for 5 years.
 
@@ -19,27 +19,26 @@ There is literally no chance I'd do that to another developer, and I think it's 
 
 This leads to backbiting, conflict, friction and flux.
 
-It will end with all of NPM getting re-namespaced to have no globals and open source devs will move to something like Entropic (which I'm already considering), and this is a person who stuck with npm through the yarn days where every npm command would break all your dev links.
+It will end with all of NPM getting re-namespaced to have no globals and open source devs will move to something like Entropic (which I'm already considering)... and this is a person who stuck with npm through the yarn days where every npm command would break all your dev links.
 
-Last I'd like to mak a point about the options left to me as a developer... when I use similar words I come up with:
-https://www.npmjs.com/package/narrative
-https://www.npmjs.com/package/rant
-https://www.npmjs.com/package/storyteller
-https://www.npmjs.com/package/spiel
-https://www.npmjs.com/package/account
-https://www.npmjs.com/package/anecdote
-https://www.npmjs.com/package/chronicle
-https://www.npmjs.com/package/history
-https://www.npmjs.com/package/yarn
+Last I'd like to make a point about the options left to me as a developer... when I use similar words I come up with:
+- https://www.npmjs.com/package/narrative
+- https://www.npmjs.com/package/rant
+- https://www.npmjs.com/package/storyteller
+- https://www.npmjs.com/package/spiel
+- https://www.npmjs.com/package/account
+- https://www.npmjs.com/package/anecdote
+- https://www.npmjs.com/package/chronicle
+- https://www.npmjs.com/package/history
+- https://www.npmjs.com/package/yarn
+- https://www.npmjs.com/package/narrator
+- https://www.npmjs.com/package/raconteur
+- https://www.npmjs.com/package/relater
+- https://www.npmjs.com/package/reporter
+- https://www.npmjs.com/package/chronicler
+- https://www.npmjs.com/package/lector
 
-https://www.npmjs.com/package/narrator
-https://www.npmjs.com/package/raconteur
-https://www.npmjs.com/package/relater
-https://www.npmjs.com/package/reporter
-https://www.npmjs.com/package/chronicler
-https://www.npmjs.com/package/lector
-
-The only things left are loan words which are total appropriations of of meanings I don't even correctly comprehend, so I use the greek word, because I feel least uncomfortable with that (as compared to other available terms like `kathakar` or `griot`). These actions may be minor individually, but I think in aggregate they represent a cowardice in policymaking to avoid conflict, which ultimately puts users in conflict with one another and gives large organizations undue influence.
+The only things left are loan words which are total appropriations of of meanings I don't even correctly comprehend, so I'm using the greek word, because I feel least uncomfortable with that (as compared to other available terms like `kathakar` or `griot`). These actions may be minor individually, but I think in aggregate they represent a cowardice in policymaking to avoid conflict, which ultimately puts users in conflict with one another and gives large organizations undue influence, but most importantly, pushes names further from *meaning*.
 
 But given npm is now owned by a company owned by the company that thinks this is a swell idea, I'd expect no change.
 
