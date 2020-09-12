@@ -1,14 +1,5 @@
 var StoryTeller = require('./storyteller.js');
-var personalities = {
-    /*'default' : new StoryTeller.MultiTeller([
-        new StoryTeller.CaptionTeller(),
-        new StoryTeller.CaptionTeller()
-    ]),
-    'sequence' : new StoryTeller.MultiTeller([
-        new StoryTeller.CaptionTeller(),
-        new StoryTeller.BackgroundTeller()
-    ])*/
-};
+var personalities = { };
 var Story = {
     options : {
         archive : 'file',
@@ -45,8 +36,8 @@ var Story = {
     request : require('request')
 }
 
-if(global.StoryTeller){
-    global.StoryTeller.story = function(){
+if(global.Rhetor){
+    global.Rhetor.story = function(){
         return Story;
     }
 }else{

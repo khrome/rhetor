@@ -196,6 +196,6 @@ StoryTeller.setRequest = function(instance){
     request = instance;
 };
 //if not in node, go global
-if (typeof self !== 'undefined') global.StoryTeller = StoryTeller;
+if (typeof self !== 'undefined') global.Rhetor = StoryTeller;
 module.exports = StoryTeller;
 //window.require = require;

@@ -1,5 +1,5 @@
 {
-  "name": "story-teller",
+  "name": "rhetor",
   "version": "0.0.1",
   "main": "storyteller.js",
   "dependencies": {

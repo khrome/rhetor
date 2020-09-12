@@ -1,5 +1,6 @@
-StoryTeller.js
-==============
+Rhetor.js
+=========
+(Please take a moment to read about [why this module has a name](docs/naming.md) the author despises)
 A visual system for referential media against a passive text reader
 
 StoryTeller is a system for configuring an interactive presentation around a piece of text and synchronizing that display. It includes formatters and simple meaning extraction to parse most common story formats.
@@ -7,7 +8,7 @@ StoryTeller is a system for configuring an interactive presentation around a pie
 Install
 -------
 
-    npm install story-teller
+    npm install rhetor
 
 Usage
 -----
