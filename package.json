@@ -1,6 +1,6 @@
 {
   "name": "rhetor",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "main": "storyteller.js",
   "dependencies": {
     "async": "^3.2.0",
